@@ -9,6 +9,7 @@
 		
 	* [Sort Algorithms](#table-of-contents-algorithms-sort)
 		* [Selection sort](#table-of-contents-algorithms-sort-selection)
+		* [Selection sort](#table-of-contents-algorithms-sort-merge)
 		
 
 <a name="table-of-contents-algorithms"></a>
@@ -18,3 +19,4 @@
 
 <a name="table-of-contents-algorithms-sort"></a>
 <a name="table-of-contents-algorithms-sort-selection"></a>
+<a name="table-of-contents-algorithms-sort-merge"></a>
