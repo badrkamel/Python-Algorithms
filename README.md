@@ -9,8 +9,8 @@
 		
 	* [Sort Algorithms](#table-of-contents-algorithms-sort)
 		* [Selection sort](#table-of-contents-algorithms-sort-selection)
-		* [Selection sort](#table-of-contents-algorithms-sort-merge)
-		* [Selection sort](#table-of-contents-algorithms-sort-bubble)
+		* [Merge sort](#table-of-contents-algorithms-sort-merge)
+		* [Bubble sort](#table-of-contents-algorithms-sort-bubble)
 		
 
 <a name="table-of-contents-algorithms-search"></a>
